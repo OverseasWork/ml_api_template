@@ -1,0 +1,15 @@
+2021-12-14 11:27:49,334 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:20] - INFO: 2111051703363537:starting lgb--------------------------------
+2021-12-14 11:27:49,392 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:23] - INFO: get appModel prob:0.5116
+2021-12-14 11:27:49,404 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:25] - INFO: get lgbModel score:597
+2021-12-14 11:27:49,404 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:26] - INFO: 2111051703363537:finished lgb--------------------------------
+
+2021-12-14 11:27:50,217 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:20] - INFO: 2111051703363537:starting lgb--------------------------------
+2021-12-14 11:27:50,269 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:23] - INFO: get appModel prob:0.5116
+2021-12-14 11:27:50,282 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:25] - INFO: get lgbModel score:597
+2021-12-14 11:27:50,282 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lgb_ml/api.py[line:26] - INFO: 2111051703363537:finished lgb--------------------------------
+
+2021-12-14 11:28:17,206 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lr_ml/api.py[line:22] - INFO: 2111051703363537:starting lr --------------------------------
+2021-12-14 11:28:17,259 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lr_ml/api.py[line:25] - INFO: get appModel prob:0.5116
+2021-12-14 11:28:17,442 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lr_ml/api.py[line:28] - INFO: get lrModel score:611.58
+2021-12-14 11:28:17,442 - /Users/huangsir/Desktop/DUG/埃及/模型/dc_ml_api/app/app/lr_ml/api.py[line:29] - INFO: 2111051703363537:finished lr --------------------------------
+

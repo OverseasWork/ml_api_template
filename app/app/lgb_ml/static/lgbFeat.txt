@@ -1,0 +1,16 @@
+gender
+是否有陀螺仪
+marital_status
+job_type
+通讯录申请占比
+可用内存
+working_years
+安卓版本号
+通讯录注册占比
+age
+login_total_seconds
+choose_disburse_cost_seconds
+屏幕长度
+prob
+剩余电量
+通讯录个数
