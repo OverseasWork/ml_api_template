@@ -8,8 +8,7 @@ source start.sh </n>
 source env.sh </n>
 
 ### Nginx监听 8005 并转发 8004
-### 接口示例
-http://0.0.0.0:8004/docs
-![img.png](img.png)
 
-[comment]: <> (![img.png]&#40;test/swaggerUI.png&#41;)
+### 启动服务后, 在线API文档如下<br>
+http://0.0.0.0:8005/docs <br>
+![img.png](test/ui.png)
